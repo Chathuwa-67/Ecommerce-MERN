@@ -2,6 +2,12 @@
 
 ![Demo App](/frontend/public/Preview.png)
 
+### Live Link
+
+```shell
+https://gamezonex.up.railway.app/
+```
+
 
 Feature
 
